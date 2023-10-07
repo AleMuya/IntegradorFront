@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    padding: 2rem;
+    background-color: rgb(53, 58, 64);
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Carrusel */
+.carousel-inner img {
+    filter: brightness(48%);
+}
+
+
+/* ORADORES */
+.oradores {
+    max-height: 200px; 
+  }
+
+
+/* FOOTER */
+.footer {
+    height: 12vh;
+    background-color: rgb(31, 78, 106);
+}
